@@ -1,15 +1,15 @@
 {
-    "name": "Selvania-Launcher",
-    "preductname": "Selvania Launcher",
+    "name": "Minefire",
+    "preductname": "Minefire Launcher",
     "version": "2.0.7",
-    "description": "Launcher Mincraft pour le serveur Selvania",
+    "description": "Welcome to Minefire, it's a HunterZ server and everyone are Welcome",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "luuxis, Minefire, Inc.",
+        "email": "Minefire.fr@hotmail.com",
+        "url": "https://github.com/Minefirefr/Minefire"
     },
-    "url": "http://launcher.luuxis.fr",
+    "url": "http://Minefire.fr",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
@@ -39,6 +39,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/luuxis/Selvania-Launcher.git"
+        "url": "git+https://github.com/Minefirefr/Minefire"
     }
 }
