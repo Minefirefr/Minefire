@@ -9,7 +9,7 @@
         "email": "Minefire.fr@hotmail.com",
         "url": "https://github.com/Minefirefr/Minefire"
     },
-    "url": "http://Minefire.fr",
+    "url": "https://www.minefire.ovh/documents/Minefire-WEB-Folder/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
