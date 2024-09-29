@@ -1,7 +1,7 @@
 {
     "name": "Minefire",
     "preductname": "Minefire Launcher",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "Welcome to Minefire, it's a HunterZ server and everyone are Welcome",
     "main": "src/app.js",
     "author": {
